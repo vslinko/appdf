@@ -1,0 +1,37 @@
+{
+  "name": "appdf"
+, "version": "0.0.0"
+, "description": "AppDF reader and publisher"
+, "homepage": "http://github.com/rithis/appdf/"
+, "bugs": {
+    "url": "https://github.com/rithis/appdf/issues"
+  , "email": "webmaster@rithis.com"
+  }
+, "author": {
+    "name": "Vyacheslav Slinko"
+  , "email": "vyacheslav.slinko@gmail.com"
+  }
+, "repository": {
+    "type": "git"
+  , "url": "git://github.com/rithis/appdf.git"
+  }
+, "dependencies": {
+    "zipfile": "~0.3"
+  , "xml2js": "~0.2"
+  }
+, "devDependencies": {
+    "async": "~0.2"
+  , "fs.extra": "~1.2"
+  , "tar": "~0.1"
+  , "chai": "~1.5"
+  , "grunt": "~0.4"
+  , "grunt-cli": "~0.1"
+  , "grunt-contrib-clean": "~0.4"
+  , "grunt-coffeelint": "~0.0"
+  , "grunt-simple-mocha": "~0.3"
+  }
+, "engines": {
+    "node": "~0.8"
+  , "npm": ">=1.1"
+  }
+}
