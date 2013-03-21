@@ -1,5 +1,7 @@
 # appdf
 
+[![Build Status](http://teamcity.rithis.com/httpAuth/app/rest/builds/buildType:id:bt7,branch:master/statusIcon?guest=1)](http://teamcity.rithis.com/viewType.html?buildTypeId=bt7&guest=1) [![Dependency Status](https://gemnasium.com/rithis/appdf.png)](https://gemnasium.com/rithis/appdf)
+
 [AppDF](https://github.com/onepf/AppDF) reader and publisher.
 
 ## Installation
